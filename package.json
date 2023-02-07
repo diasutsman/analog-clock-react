@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://diasutsman.github.io/analog-clock-react",
   "eslintConfig": {
     "extends": [
       "react-app",
